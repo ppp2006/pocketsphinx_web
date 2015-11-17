@@ -1,0 +1,30 @@
+[INFO] [WallTime: 1419819171.540961] Launch config: gconfaudiosrc
+[INFO] [WallTime: 1419819171.567196] Starting recognizer... 
+... logging to /home/ppeix/.ros/log/b50e510e-8efe-11e4-a43b-00150064e94c/roslaunch-ppeix-ppstudio-5380.log
+Checking log directory for disk usage. This may take awhile.
+Press Ctrl-C to interrupt
+Done checking log file disk usage. Usage is <1GB.
+]2;/opt/ros/hydro/share/rbx1_bak/rbx1_speech/launch/voice_nav_commands.launch
+[1mstarted roslaunch server http://ppeix-ppstudio:58132/[0m
+
+SUMMARY
+========
+
+PARAMETERS
+ * /recognizer/dict
+ * /recognizer/lm
+ * /rosdistro
+ * /rosversion
+
+NODES
+  /
+    recognizer (pocketsphinx/recognizer.py)
+
+[1mROS_MASTER_URI=http://robot-Lenovo:11311[0m
+]2;/opt/ros/hydro/share/rbx1_bak/rbx1_speech/launch/voice_nav_commands.launch http://robot-Lenovo:11311
+core service [/rosout] found
+[1mprocess[recognizer-1]: started with pid [5389][0m
+[recognizer-1] killing on exit
+shutting down processing monitor...
+... shutting down processing monitor complete
+[1mdone[0m
